@@ -1,0 +1,20 @@
+Academic record for Jane Doe (456)
+Degree: Arts
+Major: Jane
+Minor: Medicine
+PHYS101 C 75
+
+Academic record for John Smith (123)
+Degree: Arts
+Major: John
+Minor: Computer Science
+MATH101 A 95
+ENG101 B 85
+
+Academic record for Meg Marian (25364)
+Degree: Arts
+Major: Education
+Minor: English
+
+
+

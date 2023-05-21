@@ -1,0 +1,7 @@
+A,123,Smith,John,Computer Science,Mathematics
+R,123,MATH101,A,95
+R,123,ENG101,B,85
+A,456,Doe,Jane,Medicine
+R,456,PHYS101,C,75
+P,Prize 1,MATH%,3
+P,Prize 2,ENG%,2
